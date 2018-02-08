@@ -3,12 +3,18 @@
 % to initialization¡®¡¯
 % More details in:
 % Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng;
-% ''A novel nonconvex approach to recover the low-tuba-rank tensor data:
+% ''A novel nonconvex approach to recover the low-tubal-rank tensor data:
 % when t-SVD meets PSSV'' submitted to Applied Mathematical Modelling
 % (AMM).
 % Contact: taixiangjiang@gmail.com
 % Date: 7th Feb. 2018
 
+% The authors would like to express their sincere thanks to 
+% Dr. Canyi Lu (https://sites.google.com/site/canyilu/) 
+% and 
+% Zemin Zhang (https://sites.google.com/site/jamiezeminzhang/) 
+% for their generous sharing of their code.Meanwhile, we promiose that 
+% our code will all be updated as .m format as soon as the publication of our paper.
 
 
 addpath(genpath(cd))

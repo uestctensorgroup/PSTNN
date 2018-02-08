@@ -5,12 +5,12 @@ function [X,obj,err,iter] = LRTC_TNN(M,omega,opts,M_true)
 if ~exist('opts', 'var')
     opts = [];
 end    
-if isfield(opts, 'tol');         tol = opts.tol;              end
-if isfield(opts, 'max_iter');    max_iter = opts.max_iter;    end
-if isfield(opts, 'rho');         rho = opts.rho;              end
-if isfield(opts, 'mu');          mu = opts.mu;                end
-if isfield(opts, 'max_mu');      max_mu = opts.max_mu;        end
-if isfield(opts, 'DEBUG');       DEBUG = opts.DEBUG;          end
+if isfield(opts, 'tol');             tol            = opts.tol;                 end
+if isfield(opts, 'max_iter');    max_iter   = opts.max_iter;        end
+if isfield(opts, 'rho');            rho          = opts.rho;                end
+if isfield(opts, 'mu');            mu           = opts.mu;                end
+if isfield(opts, 'max_mu');    max_mu   = opts.max_mu;        end
+if isfield(opts, 'DEBUG');      DEBUG     = opts.DEBUG;          end
 
 dim = size(M);
 

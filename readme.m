@@ -12,9 +12,11 @@
 %   Demo_initial_sensitivity.m   --> for the experiments of sensitivety fo
 %   initializations
 
-
-%% The authors would like to express their sincere thanks to Canyi Lu (https://sites.google.com/site/canyilu/) and Zemin Zhang (https://sites.google.com/site/jamiezeminzhang/) for their generous sharing of their code.
-% Meanwhile, we promiose that our code will all be updated as .m format
-% after the acceptance of our paper.
+% The authors would like to express their sincere thanks to 
+% Dr. Canyi Lu (https://sites.google.com/site/canyilu/) 
+% and 
+% Zemin Zhang (https://sites.google.com/site/jamiezeminzhang/) 
+% for their generous sharing of their code.Meanwhile, we promiose that 
+% our code will all be updated as .m format as soon as the publication of our paper.
 
 
